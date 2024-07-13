@@ -20,7 +20,7 @@ To run the project locally, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/your-username/user-authentication.git
+   https://github.com/Karthikeyan-S-04/User-Authentication-and-Profile-Management-System.git
    ```
 
 2. **Setup Database**:
